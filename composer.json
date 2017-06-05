@@ -16,7 +16,7 @@
     "autoload": {
         "psr-4": {
             "itboye\\vendor": [
-                "boye_vendor/src"
+                "src"
             ]
         }
     }
