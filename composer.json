@@ -1,0 +1,23 @@
+{
+    "name": "itboye/vendor-framework",
+    "description": "vendor",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hebidu",
+            "email": "hebiduhebi@126.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3",
+        "mobiledetect/mobiledetectlib": "^2.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "itboye\\vendor": [
+                "boye_vendor/src"
+            ]
+        }
+    }
+}

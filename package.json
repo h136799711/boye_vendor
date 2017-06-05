@@ -1,0 +1,23 @@
+{
+  "name": "vendor-framework",
+  "version": "1.0.0",
+  "description": "第三方库仓库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h136799711/boye_vendor.git"
+  },
+  "keywords": [
+    "itboye",
+    "hebidu"
+  ],
+  "author": "346551990@qq.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/h136799711/boye_vendor/issues"
+  },
+  "homepage": "https://github.com/h136799711/boye_vendor#readme"
+}
