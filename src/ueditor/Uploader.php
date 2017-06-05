@@ -1,6 +1,6 @@
 <?php
 
-namespace  itboye\vendor;
+namespace  itboye\vendor\ueditor;
 
 /**
  * Created by JetBrains PhpStorm.
